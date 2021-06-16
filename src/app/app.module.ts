@@ -7,14 +7,14 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 // import FCM
-import { FCMPluginOnIonic } from 'cordova-plugin-fcm-with-dependecy-updated/ionic';
+// import { FCMPluginOnIonic } from 'cordova-plugin-fcm-with-dependecy-updated/ionic';
 
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule],
   providers: [
-    FCMPluginOnIonic,
+    // FCMPluginOnIonic,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
   ],
   bootstrap: [AppComponent],
