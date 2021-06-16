@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "539994046035",
+    "firebase_url": "https://ionic-database-635d2-default-rtdb.firebaseio.com",
+    "project_id": "ionic-database-635d2",
+    "storage_bucket": "ionic-database-635d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539994046035:android:4a77895af969c3914310a6",
+        "android_client_info": {
+          "package_name": "com.ionic.fcmApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539994046035-c5p3erqgk8vd915vb33672869mb58u0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaoSOjNtiX-PkL4ACsdY5VecOyARMRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539994046035-c5p3erqgk8vd915vb33672869mb58u0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539994046035-7gnse2mb69sr8uaa25v8rddbs780nq2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vigilinks.vigilinks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539994046035:android:374f80c64b2f4ef54310a6",
+        "android_client_info": {
+          "package_name": "vigilinks.vigilinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539994046035-c5p3erqgk8vd915vb33672869mb58u0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaoSOjNtiX-PkL4ACsdY5VecOyARMRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539994046035-c5p3erqgk8vd915vb33672869mb58u0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539994046035-7gnse2mb69sr8uaa25v8rddbs780nq2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vigilinks.vigilinks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
